@@ -7,7 +7,7 @@
 <a href="https://instagram.com/dr.one_doom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dr.one_doom" height="30" width="40" /></a>
 </p>
 
-<p >
+<!--p-->
 
 
 <h2 align="left">Languages</h2>
@@ -101,4 +101,4 @@
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-</p>
+<!--/p-->
