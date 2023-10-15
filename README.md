@@ -1,4 +1,4 @@
-<h3 align="center">fullstack game developer</h3>
+<h3 align="left">fullstack game developer</h3>
 
 - 🎮 **Legacy Of The Epics**
 
