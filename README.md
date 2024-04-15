@@ -1,6 +1,4 @@
-<h3 align="left">Backend Web and Devops game developer</h3>
-
-- 🎮 **Legacy Of The Epics**
+<h3 align="left">Game Development Devops, web development backend and server configuration architect</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
